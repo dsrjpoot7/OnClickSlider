@@ -97,7 +97,7 @@ public class MainActivity extends AppCompatActivity {
                 mBackBtn.setEnabled(true);
                 mBackBtn.setVisibility(View.VISIBLE);
 
-                mNextBtn.setText("Finish");
+                mNextBtn.setText("Start");
                 mBackBtn.setText("Back");
             }
             else {
